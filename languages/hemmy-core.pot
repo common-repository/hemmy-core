@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemmy Core\n"
+"POT-Creation-Date: 2019-01-31 12:37+0530\n"
+"PO-Revision-Date: 2019-01-31 12:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: Abileweb\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-hemmy-core-metabox.php:71
+msgid "Hemmy Post Options"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:94
+msgid "Feature Post"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:97
+#: includes/class-hemmy-core-metabox.php:106
+#: includes/class-hemmy-core-metabox.php:115
+#: includes/class-hemmy-core-metabox.php:125
+#: includes/class-hemmy-core-metabox.php:133
+msgid "Disable"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:98
+#: includes/class-hemmy-core-metabox.php:107
+#: includes/class-hemmy-core-metabox.php:116
+#: includes/class-hemmy-core-metabox.php:124
+#: includes/class-hemmy-core-metabox.php:134
+msgid "Enable"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:103
+msgid "Related Post"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:112
+msgid "Post Author Info"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:121
+msgid "Post Feature Image"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:121
+msgid "Post Page - Feature Image "
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:130
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/class-hemmy-core-metabox.php:130
+msgid "Post Page - Sidebar"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:66
+msgid "Enter the email address"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:102
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:106
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:114
+#: widgets/class-hemmy-core-widgets.php:122
+#: widgets/class-hemmy-core-widgets.php:126
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:138
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:170
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "second"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "minute"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "hour"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "day"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "week"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "month"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "year"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:227
+msgid "decade"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:233
+msgid "ago"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:242
+msgid "s"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:258
+msgid "Twitter"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:280
+#: widgets/class-hemmy-core-widgets.php:466
+#: widgets/class-hemmy-core-widgets.php:626
+msgid "Title:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:284
+msgid "Twitter ID:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:289
+msgid "Consumer Key:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:294
+msgid "Consumer Secret:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:299
+msgid "Access Token:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:304
+msgid "Access Token Secret:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:309
+msgid "Number Of Tweets: "
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:313
+msgid "Number Of Shown Tweets: "
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:424
+msgid "There was a problem processing your submission."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:425
+msgid "Join now!"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:426
+msgid ""
+"Thank you for joining our mailing list. Please check your email for a "
+"confirmation link."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:427
+msgid "Sign up for our mailing list."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:432
+msgid "Mailchimp"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:448
+msgid "Success."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:449
+msgid "Failure."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:464
+msgid "General Settings"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:470
+msgid "Select A Mailing List:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:485
+msgid "Sign Up Button Text :"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:488
+msgid "Personal Information"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:491
+msgid "Collect first name:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:494
+msgid "Collect last name."
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:496
+msgid "Notification"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:498
+msgid "Sub Title:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:502
+msgid "Success Message:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:506
+msgid "Failed Message:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:559
+msgid "First Name"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:566
+msgid "Last Name"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:574
+msgid "Email Address"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:582
+msgid "Success"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:583
+msgid "Failed"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:607
+msgid "Instagram"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:631
+msgid "Username:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:636
+msgid "Number Of Photos: "
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:641
+msgid "Photo Size:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:643
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:644
+msgid "Small"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:645
+msgid "Large"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:646
+msgid "Original"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:651
+msgid "Target:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:653
+msgid "Current Window(_self)"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:654
+msgid "New Window(_blank)"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:659
+msgid "Follow Link:"
+msgstr ""
+
+#: widgets/class-hemmy-core-widgets.php:756
+msgid "Busted"
+msgstr ""

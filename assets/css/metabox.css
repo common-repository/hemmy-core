@@ -1,0 +1,11 @@
+.hemmy-post-options-wrap .option-item {
+	border-bottom: 1px solid #eee;
+}
+.hemmy-post-options-wrap .option-item:last-child {
+	border: none;
+}
+.meta-box-sortables select {
+    margin: 0;
+    padding: 0px 5px;
+    width: 25em;
+}
